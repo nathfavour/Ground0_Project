@@ -13,6 +13,7 @@ The database codes can be found on db.sqlite3
 
 NB: sqlite3 is a lightweight database server that
 comes bundled with Django. So it was more convinent.
+
        OVERVIEW
 This site is very simple; when you put your details
 in the register page, you are stored as a user.
