@@ -17,6 +17,7 @@ comes bundled with Django. So it was more convinent.
 This site is very simple; when you put your details
 in the register page, you are stored as a user.
 Then the admin can convert that user to an employee, or manager.
+
        DATABASE
 
 The codes responsible for the database implementations
