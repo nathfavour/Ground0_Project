@@ -1,3 +1,9 @@
+"""This is a URL configuration. It decides what 
+url will be needed to open a link, and it
+connects the urls to the codes that will be displayed"""
+
+
+
 """Ground0_Nathaniel URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
