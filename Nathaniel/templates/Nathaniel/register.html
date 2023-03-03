@@ -1,0 +1,51 @@
+{% extends 'Nathaniel/main.html' %}
+{% block content %}
+<h3> <bold>Register</bold></h3>
+<br/>
+<h1> OR </h1>
+<h3>view <a href = "  https://ingeniath03.pythonanywhere.com/admin/">the main project</a></h3>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+<br/>
+
+<article>
+    <h1>Welcome to Ground0_group6 project!</h1>
+    <br/>
+    <h2>you will be redirected to the login page where you can see your account</h2>
+    <br/>
+    <hr/><hr/><hr/><hr/>
+</article>
+<div>
+<form method = "POST">
+    {% csrf_token %}
+    {{form.as_p}}
+    <input type = "submit" value = "Register">
+</form>
+</div>
+<style>
+h1{background-color : pink;
+color: purple;
+margin: 0 auto 0 auto;
+border-radius: 5px;
+}
+
+h2{background-color : white;
+border-radius : 5px;
+color: purple;
+margin: 0 auto 0 auto;
+}
+    div{border-radius: 30px;
+        background-color : yellow;
+        color : brown;
+    }
+</style>
+
+
+
+{% endblock content %}
