@@ -1,3 +1,7 @@
+""" This file controls settings and configurations for
+the main app."""
+
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
