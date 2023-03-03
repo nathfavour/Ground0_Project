@@ -1,3 +1,7 @@
+"""This is where you will find all the project
+settings"""
+
+
 """
 Django settings for Ground0_Nathaniel project.
 
