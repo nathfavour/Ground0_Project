@@ -1,3 +1,7 @@
+"""This file holds information that will be used
+when hosting or deploying this project"""
+
+
 """
 ASGI config for Ground0_Nathaniel project.
 
