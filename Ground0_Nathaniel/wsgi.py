@@ -1,3 +1,7 @@
+"""This file holds information that will be used
+when hosting or deploying this project"""
+
+
 import os
 
 from django.core.wsgi import get_wsgi_application
