@@ -1,3 +1,7 @@
+
+"""this makes it possible for the project
+app to be configured and connected"""
+
 from django.apps import AppConfig
 
 
