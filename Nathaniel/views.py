@@ -1,3 +1,7 @@
+"""This file configures the views that will be seen
+when the pages load"""
+
+
 from django.views.generic.edit import FormView
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
